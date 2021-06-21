@@ -1,0 +1,31 @@
+h1
+{		
+	color:blue;
+	font-family: Brush Script MT; 
+	font-size:20pt;
+	text-decoration:underline;
+}
+
+h2
+{		
+	color:green;
+	font-family:Georgia; 
+	font-size:16pt;
+	text-decoration:overline;
+}
+
+p
+{
+	color:red;
+	font-family:Lucida Console; 
+	font-size:12pt;
+	text-decoration: underline;
+	text-decoration-style:wavy;
+}
+
+pre
+{
+	font-size: x-large;
+	font: italic small-caps bold 22px/30px Georgia, serif;
+	color:teal;
+}
