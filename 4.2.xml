@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!DOCTYPE bookdetails SYSTEM "book.dtd">
+<?xml-stylesheet type="text/xsl" href="book.xsl"?>
+<bookdetails>
+	<books>
+		<title>Data structures using C </title>
+		<author> Reema Thareja </author>
+		<isbn>987654</isbn>
+		<publisher>Oxford</publisher>
+		<edition> Edition-II </edition>
+		<price>$40.00</price>
+	</books>
+	<books>
+		<title> C++ </title>
+		<author> Joyce Farrell </author>
+		<isbn>654321</isbn>
+		<publisher>Cengage Learning</publisher>
+		<edition> Edition-IV </edition>
+		<price>$32.00</price>
+	</books>
+	<books>
+		<title>Python Programming</title>
+		<author>Vamsi Kurama</author>
+		<isbn>789456</isbn>
+		<publisher>Pearson</publisher>
+		<edition> Edition-III </edition>
+		<price>$49.00</price>
+	</books> 
+</bookdetails>
